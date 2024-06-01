@@ -1,0 +1,55 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "kiran",
+      "email": "kiran@gmail.com",
+      "number": "7955421234"
+    },
+    {
+      "id": "2",
+      "name": "sakiran",
+      "email": "sai@gmail.com",
+      "number": "7895255652"
+    },
+    {
+      "id": "3",
+      "name": "karthik",
+      "email": "karthik@gmail.com",
+      "number": "7986252222"
+    },
+    {
+      "id": "4",
+      "name": "jawahar",
+      "email": "jawahar@gmail.com",
+      "phone": "",
+      "number": "44444444"
+    },
+    {
+      "id": "5",
+      "name": "sai kumar Raja",
+      "email": "saikumar54722@gmail.com",
+      "phone": "",
+      "number": "06309401182"
+    },
+    {
+      "id": "6",
+      "name": "mahesh",
+      "email": "mahesh232@gmail.com",
+      "phone": "",
+      "number": "741892147"
+    },
+    {
+      "id": "8",
+      "name": "kiran",
+      "email": "kiran@gmail.com",
+      "number": "555555555"
+    },
+    {
+      "id": "f624",
+      "name": "rajesh",
+      "email": "rajesh@gmail.com",
+      "number": "66666666"
+    }
+  ]
+}

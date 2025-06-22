@@ -25,6 +25,7 @@ const Home = () => {
 
   return (
     <div className='d-flex flex-column justify-content-center align-items-center bg-light vh-100'>
+      {/* <p>users</p> */}
       <h1>List of users</h1>
       <div className='w-75 rounded bg-white border shadow p-4'>
         <div className='d-flex justify-content-end'>
